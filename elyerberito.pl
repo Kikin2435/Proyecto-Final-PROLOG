@@ -312,6 +312,141 @@ propiedades_planta(romero, [estimulante, digestivo]).
 propiedades_planta(tila, [calmante, sedante]).
 propiedades_planta(maiz, [diuretico, antiinflamatorio, regulador_glucemia, depurativo]).
 
+origen_planta(abrojo, europa, espana).
+origen_planta(acacia, africa, sudan).
+origen_planta(acanto, europa, grecia).
+origen_planta(aceitilla, america, mexico).
+origen_planta(achicoria, europa, italia).
+origen_planta(tamarindo, asia, india).
+origen_planta(amapola_amarilla, europa, francia).
+origen_planta(amate, america, mexico).
+origen_planta(anis, asia, china).
+origen_planta(ruda, europa, espana).
+origen_planta(ruibarbo, asia, china).
+origen_planta(salvia, america, mexico).
+origen_planta(sen, africa, egipto).
+origen_planta(marihuana, asia, india).
+origen_planta(matarique, america, mexico).
+origen_planta(digitaria, europa, italia).
+origen_planta(cardo_santo, america, mexico).
+origen_planta(brionia, europa, grecia).
+origen_planta(canela, asia, sri_lanka).
+origen_planta(cedron, america, peru).
+origen_planta(doradilla, america, chile).
+origen_planta(epazote, america, mexico).
+origen_planta(enebro, europa, espana).
+origen_planta(mangle, america, brasil).
+origen_planta(manzanilla, europa, espana).
+origen_planta(marrubio, europa, italia).
+origen_planta(mastuerzo, asia, china).
+origen_planta(menta, europa, italia).
+origen_planta(aconito, europa, suiza).
+origen_planta(adormidera, asia, turquia).
+origen_planta(ahuehuete, america, mexico).
+origen_planta(ajo, asia, kazajistan).
+origen_planta(albahaca, asia, india).
+origen_planta(alcachofa, africa, tunez).
+origen_planta(anacahuite, america, mexico).
+origen_planta(barbasco, america, brasil).
+origen_planta(bugambilia, america, brasil).
+origen_planta(cempasuchil, america, mexico).
+origen_planta(chaparro_amargoso, america, mexico).
+origen_planta(chicalote, america, argentina).
+origen_planta(chile, america, peru).
+origen_planta(chichigua, america, mexico).
+origen_planta(cocolmeca, america, mexico).
+origen_planta(cola_de_caballo, europa, alemania).
+origen_planta(colchino, america, mexico).
+origen_planta(colpachi, america, mexico).
+origen_planta(cuajiote, america, mexico).
+origen_planta(cuasia, america, brasil).
+origen_planta(diente_de_leon, europa, francia).
+origen_planta(digitaria, europa, italia).
+origen_planta(doradilla, america, chile).
+origen_planta(enebro, europa, espana).
+origen_planta(fenogreco, asia, india).
+origen_planta(geranio, africa, sudafrica).
+origen_planta(girasol, america, mexico).
+origen_planta(gingseng, asia, china).
+origen_planta(grama, africa, kenia).
+origen_planta(guaco, america, colombia).
+origen_planta(guazuma, america, mexico).
+origen_planta(guayacan, america, venezuela).
+origen_planta(hamamelis, america, estados_unidos).
+origen_planta(helenio, europa, espana).
+origen_planta(madresilva, desconocido, desconocido).
+origen_planta(maguey, america, mexico).
+origen_planta(hierba_del_pollo, america, mexico).
+origen_planta(jalapa, america, mexico).
+origen_planta(ipecacuana, america, brasil).
+origen_planta(jazmin_amarillo, america, mexico).
+origen_planta(malva, europa, italia).
+origen_planta(malvavisco, europa, francia).
+origen_planta(mangle, america, brasil).
+origen_planta(marrubio, europa, italia).
+origen_planta(marihuana, asia, india).
+origen_planta(mastuerzo, asia, china).
+origen_planta(matarique, america, mexico).
+origen_planta(palo_de_flor, america, mexico).
+origen_planta(pinguica, america, mexico).
+origen_planta(ruibarbo, asia, china).
+origen_planta(sen, africa, egipto).
+origen_planta(sanguinaria, america, canada).
+origen_planta(sensativa, america, brasil).
+origen_planta(simonillo, america, mexico).
+origen_planta(tabachin, america, mexico).
+origen_planta(taray, asia, iran).
+origen_planta(regaliz, europa, espana).
+origen_planta(retama, europa, espana).
+origen_planta(ricino, africa, etiopia).
+origen_planta(rosal, asia, china).
+origen_planta(nogal, europa, espana).
+origen_planta(nuez_vomica, oceania, australia).
+origen_planta(ocote, america, mexico).
+origen_planta(ortiga, europa, alemania).
+origen_planta(prodigiosa, america, mexico).
+origen_planta(pirul, america, mexico).
+origen_planta(pulsatilla, europa, suiza).
+origen_planta(quebracho, america, argentina).
+origen_planta(quina, america, peru).
+origen_planta(toloache, america, mexico).
+origen_planta(tronadora, america, mexico).
+origen_planta(tripa_de_judas, america, mexico).
+origen_planta(uva, europa, italia).
+origen_planta(nopal, america, mexico).
+
+definicion(afrodisiaca, 'Propiedad de una planta que estimula el apetito sexual.').
+definicion(analgesica, 'Propiedad que alivia o reduce el dolor.').
+definicion(antiinflamatoria, 'Propiedad que reduce la inflamacion en el cuerpo.').
+definicion(diuretica, 'Propiedad que favorece la eliminacion de liquidos a traves de la orina.').
+definicion(laxante, 'Propiedad que ayuda a aliviar el estrenimiento y promueve la evacuacion.').
+definicion(sedante, 'Propiedad que calma o induce relajacion, util para tratar ansiedad o insomnio.').
+definicion(expectorante, 'Propiedad que ayuda a expulsar mucosidad de las vias respiratorias.').
+definicion(hemostatica, 'Propiedad que detiene o reduce hemorragias.').
+definicion(antiparasitaria, 'Propiedad que elimina parasitos del cuerpo, como lombrices.').
+definicion(carminativa, 'Propiedad que reduce la formacion de gases y alivia la flatulencia.').
+definicion(anestesica, 'Que insensibiliza el cuerpo (o parte)').
+definicion(antidiarreica, 'Que controla diarreas o deposiciones').
+definicion(antiespasmodica, 'Que controla espasmos nerviosos').
+definicion(antiflogistica, 'Que actua contra las inflamaciones').
+definicion(antipiretica, 'Que quita o disminuye la fiebre').
+definicion(antiseptica, 'Que mata los tejidos').
+definicion(aperitiva, 'Que produce apetito (deseo de comer)').
+definicion(astringente, 'Que hace contraer los tejidos').
+definicion(colagoga, 'Que ayuda a expulsar bilis').
+definicion(depurativa, 'Que limipia y purifica la sangre').
+definicion(diaforetica, 'Que provoca sudar como cochino').
+definicion(digestiva, 'Que favorece la digestion').
+definicion(emetica, 'Que provoca nauseas y vomitos').
+definicion(emenagoga, 'Que activa la menstruacion').
+definicion(estupefaciente, 'Que aquieta, duerme... o atonta').
+definicion(hepatica, 'Que ayuda al higado').
+definicion(pectoral, 'Que ayuda al pecho').
+definicion(tonica, 'Que da fuerza al organimos (no al orgasmo').
+definicion(toxica, 'Que es venenosa').
+definicion(vermifuga, 'Que expulsa gusanos intestinales').
+definicion(vulneraria, 'Que cura llagas y heridas').
+
 elementos_planta(tamarindo, [vitamina_A, vitamina_B, vitamina_C, acido_Acetico]).
 elementos_planta(abrojo, [taninos, saponinas, flavonoides]).
 elementos_planta(acacia, [goma, mucilago, taninos]).
@@ -1723,13 +1858,21 @@ inicio :-
     new(BtnBotiquin, button('Mini Botiquin', message(@prolog, mostrar_plantas_botiquin_dialogo))),
     new(BtnMostrarPlantas, button('Mostrar Plantas', message(@prolog, mostrar_plantas_dialogo))),
     new(BtnMostrarEnfermedades, button('Mostrar Enfermedades', message(@prolog, mostrar_lista_enfermedades))),
+    new(BtnBuscarContinente, button('Buscar por Continente', message(@prolog, buscar_por_continente_dialogo))),
+    new(BtnBuscarPais, button('Buscar por Pais', message(@prolog, buscar_por_pais_dialogo))),
+    new(BtnDiccionario, button('Diccionario', message(@prolog, buscar_diccionario_dialogo))),
+    new(BtnConceptos, button('Conceptos', message(@prolog, mostrar_conceptos_diccionario))), % Nuevo botón
     send(D, append, BtnBuscarPlanta),
     send(D, append, BuscarPadecimientoButton),
     send(D, append, BtnBotiquin),
     send(D, append, BtnMostrarPlantas),
     send(D, append, BtnMostrarEnfermedades),
+    send(D, append, BtnBuscarContinente),
+    send(D, append, BtnBuscarPais),
+    send(D, append, BtnDiccionario),
+    send(D, append, BtnConceptos), % Agregar el nuevo botón al diálogo
     img('portada',Ruta),
-    mostrar(Ruta,D,BtnMostrarEnfermedades),
+    mostrar(Ruta,D,BtnConceptos), % Actualizar la imagen para que aparezca debajo del nuevo botón
     send(D, open_centered).
 :-inicio.
 
@@ -1744,6 +1887,89 @@ mostrar_plantas_botiquin_dialogo :-
         send(ListaPlantas, append, Planta)),
     send(Dialog, append, new(_, text('Mini Botiquin de Plantas', center, bold))),
     send(Dialog, append, ListaPlantas),
+    send(Dialog, append, button(cerrar, message(Dialog, destroy))),
+    send(Dialog, open_centered).
+
+buscar_por_continente_dialogo :-
+    new(Dialog, dialog('Buscar Plantas por Continente')),
+    new(Continente, menu('Seleccione Continente')),
+    setof(Cont, Pl^Pa^origen_planta(Pl, Cont, Pa), Continentes),
+    send_list(Continente, append, Continentes),
+    send(Dialog, append, Continente),
+    send(Dialog, append, button(buscar, message(@prolog, buscar_por_continente, Dialog, Continente?selection))),
+    send(Dialog, append, button(cancelar, message(Dialog, destroy))),
+    send(Dialog, open_centered).
+
+buscar_por_continente(Dialog, Continente) :-
+    findall(Planta, origen_planta(Planta, Continente, _), Plantas),
+    (   Plantas \= []
+    ->  new(ResultDialog, dialog('Plantas del Continente')),
+        atomics_to_string(Plantas, ', ', PlantasString),
+        send(ResultDialog, append, label(plantas, string('Plantas de %s: %s', Continente, PlantasString))),
+        send(ResultDialog, append, button(cerrar, message(ResultDialog, destroy))),
+        send(ResultDialog, open_centered),
+        send(Dialog, destroy)
+    ;   new(ErrorDialog, dialog('Error')),
+        send(ErrorDialog, append, label(error, 'No se encontraron plantas para este continente')),
+        send(ErrorDialog, append, button(cerrar, message(ErrorDialog, destroy))),
+        send(ErrorDialog, open_centered)
+    ).
+
+buscar_por_pais_dialogo :-
+    new(Dialog, dialog('Buscar Plantas por Pais')),
+    new(Pais, menu('Seleccione Pais')),
+    setof(Pa, Pl^Cont^origen_planta(Pl, Cont, Pa), Paises),
+    send_list(Pais, append, Paises),
+    send(Dialog, append, Pais),
+    send(Dialog, append, button(buscar, message(@prolog, buscar_por_pais, Dialog, Pais?selection))),
+    send(Dialog, append, button(cancelar, message(Dialog, destroy))),
+    send(Dialog, open_centered).
+
+buscar_por_pais(Dialog, Pais) :-
+    findall(Planta, origen_planta(Planta, _, Pais), Plantas),
+    (   Plantas \= []
+    ->  new(ResultDialog, dialog('Plantas del Pais')),
+        atomics_to_string(Plantas, ', ', PlantasString),
+        send(ResultDialog, append, label(plantas, string('Plantas de %s: %s', Pais, PlantasString))),
+        send(ResultDialog, append, button(cerrar, message(ResultDialog, destroy))),
+        send(ResultDialog, open_centered),
+        send(Dialog, destroy)
+    ;   new(ErrorDialog, dialog('Error')),
+        send(ErrorDialog, append, label(error, 'No se encontraron plantas para este pais')),
+        send(ErrorDialog, append, button(cerrar, message(ErrorDialog, destroy))),
+        send(ErrorDialog, open_centered)
+    ).
+
+buscar_diccionario_dialogo :-
+    new(Dialog, dialog('Diccionario')),
+    new(Termino, text_item('Termino a buscar')),
+    send(Dialog, append, Termino),
+    send(Dialog, append, button(buscar, message(@prolog, buscar_definicion, Dialog, Termino?selection))),
+    send(Dialog, append, button(cancelar, message(Dialog, destroy))),
+    send(Dialog, open_centered).
+
+buscar_definicion(Dialog, Termino) :-
+    (   definicion(Termino, Definicion)
+    ->  new(ResultDialog, dialog('Definicion')),
+        send(ResultDialog, append, label(termino, string('Termino: %s', Termino))),
+        send(ResultDialog, append, label(definicion, string('Definicion: %s', Definicion))),
+        send(ResultDialog, append, button(cerrar, message(ResultDialog, destroy))),
+        send(ResultDialog, open_centered),
+        send(Dialog, destroy)
+    ;   new(ErrorDialog, dialog('Error')),
+        send(ErrorDialog, append, label(error, 'Termino no encontrado')),
+        send(ErrorDialog, append, button(cerrar, message(ErrorDialog, destroy))),
+        send(ErrorDialog, open_centered)
+    ).
+
+mostrar_conceptos_diccionario :-
+    new(Dialog, dialog('Lista de Conceptos del Diccionario')),
+    findall(Termino, definicion(Termino, _), Terminos),
+    new(ListaTerminos, list_browser),
+    forall(member(Termino, Terminos),
+           send(ListaTerminos, append, Termino)),
+    send(Dialog, append, new(_, text('Conceptos Disponibles', center, bold))),
+    send(Dialog, append, ListaTerminos),
     send(Dialog, append, button(cerrar, message(Dialog, destroy))),
     send(Dialog, open_centered).
 
